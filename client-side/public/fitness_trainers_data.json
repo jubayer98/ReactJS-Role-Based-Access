@@ -1,0 +1,87 @@
+[
+    {
+        "_id": "1",
+        "trainer_name": "John Doe",
+        "trainer_image_url": "https://via.placeholder.com/150",
+        "biography": "An experienced fitness trainer specializing in strength and conditioning.",
+        "areas_of_expertise": [
+            "Strength Training",
+            "Conditioning",
+            "Nutrition"
+        ],
+        "years_of_experience": 5,
+        "available_slots": [
+            "9:00 AM - 11:00 AM",
+            "2:00 PM - 4:00 PM",
+            "5:00 PM - 7:00 PM"
+        ],
+        "social_url": [
+            {
+                "url": "https://www.facebook.com/johndoe",
+                "platform": "Facebook"
+            },
+            {
+                "url": "https://twitter.com/johndoe",
+                "platform": "Twitter"
+            }
+        ]
+    },
+    {
+        "_id": "2",
+        "trainer_name": "Jane Smith",
+        "trainer_image_url": "https://via.placeholder.com/150",
+        "biography": "Certified yoga instructor with a passion for mindfulness and wellness.",
+        "areas_of_expertise": [
+            "Yoga",
+            "Mindfulness",
+            "Wellness"
+        ],
+        "years_of_experience": 3,
+        "available_slots": [
+            "10:00 AM - 12:00 PM",
+            "1:00 PM - 3:00 PM",
+            "5:00 PM - 7:00 PM"
+        ],
+        "social_url": [
+            {
+                "url": "https://www.instagram.com/janesmith",
+                "platform": "Instagram"
+            },
+            {
+                "url": "https://www.linkedin.com/in/janesmith",
+                "platform": "LinkedIn"
+            }
+        ]
+    },
+    {
+        "_id": "3",
+        "trainer_name": "David Brown",
+        "trainer_image_url": "https://via.placeholder.com/150",
+        "biography": "Sports nutritionist with extensive experience helping athletes optimize their performance.",
+        "areas_of_expertise": [
+            "Sports Nutrition",
+            "Diet Plans",
+            "Hydration Strategies"
+        ],
+        "years_of_experience": 8,
+        "available_slots": [
+            "8:00 AM - 10:00 AM",
+            "3:00 PM - 5:00 PM",
+            "6:00 PM - 8:00 PM"
+        ],
+        "social_url": [
+            {
+                "url": "https://www.facebook.com/davidbrown",
+                "platform": "Facebook"
+            },
+            {
+                "url": "https://www.linkedin.com/in/davidbrown",
+                "platform": "LinkedIn"
+            },
+            {
+                "url": "https://twitter.com/davidbrown",
+                "platform": "Twitter"
+            }
+        ]
+    }
+]

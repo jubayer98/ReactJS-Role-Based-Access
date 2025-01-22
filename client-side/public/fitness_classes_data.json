@@ -1,0 +1,134 @@
+[
+    {
+        "_id": "1",
+        "class_name": "Class 1",
+        "total_booking": 35,
+        "class_details": "Details for class 1. This class focuses on improving various fitness aspects.",
+        "trainers": [
+            "Trainer A",
+            "Trainer B"
+        ],
+        "class_image_url": "https://via.placeholder.com/150"
+    },
+    {
+        "_id": "2",
+        "class_name": "Class 2",
+        "total_booking": 40,
+        "class_details": "Details for class 2. This class focuses on improving various fitness aspects.",
+        "trainers": [
+            "Trainer A",
+            "Trainer B"
+        ],
+        "class_image_url": "https://via.placeholder.com/150"
+    },
+    {
+        "_id": "3",
+        "class_name": "Class 3",
+        "total_booking": 45,
+        "class_details": "Details for class 3. This class focuses on improving various fitness aspects.",
+        "trainers": [
+            "Trainer A",
+            "Trainer B"
+        ],
+        "class_image_url": "https://via.placeholder.com/150"
+    },
+    {
+        "_id": "4",
+        "class_name": "Class 4",
+        "total_booking": 50,
+        "class_details": "Details for class 4. This class focuses on improving various fitness aspects.",
+        "trainers": [
+            "Trainer A",
+            "Trainer B"
+        ],
+        "class_image_url": "https://via.placeholder.com/150"
+    },
+    {
+        "_id": "5",
+        "class_name": "Class 5",
+        "total_booking": 55,
+        "class_details": "Details for class 5. This class focuses on improving various fitness aspects.",
+        "trainers": [
+            "Trainer A",
+            "Trainer B"
+        ],
+        "class_image_url": "https://via.placeholder.com/150"
+    },
+    {
+        "_id": "6",
+        "class_name": "Class 6",
+        "total_booking": 60,
+        "class_details": "Details for class 6. This class focuses on improving various fitness aspects.",
+        "trainers": [
+            "Trainer A",
+            "Trainer B"
+        ],
+        "class_image_url": "https://via.placeholder.com/150"
+    },
+    {
+        "_id": "7",
+        "class_name": "Class 7",
+        "total_booking": 65,
+        "class_details": "Details for class 7. This class focuses on improving various fitness aspects.",
+        "trainers": [
+            "Trainer A",
+            "Trainer B"
+        ],
+        "class_image_url": "https://via.placeholder.com/150"
+    },
+    {
+        "_id": "8",
+        "class_name": "Class 8",
+        "total_booking": 70,
+        "class_details": "Details for class 8. This class focuses on improving various fitness aspects.",
+        "trainers": [
+            "Trainer A",
+            "Trainer B"
+        ],
+        "class_image_url": "https://via.placeholder.com/150"
+    },
+    {
+        "_id": "9",
+        "class_name": "Class 9",
+        "total_booking": 75,
+        "class_details": "Details for class 9. This class focuses on improving various fitness aspects.",
+        "trainers": [
+            "Trainer A",
+            "Trainer B"
+        ],
+        "class_image_url": "https://via.placeholder.com/150"
+    },
+    {
+        "_id": "10",
+        "class_name": "Class 10",
+        "total_booking": 80,
+        "class_details": "Details for class 10. This class focuses on improving various fitness aspects.",
+        "trainers": [
+            "Trainer A",
+            "Trainer B"
+        ],
+        "class_image_url": "https://via.placeholder.com/150"
+    },
+    {
+        "_id": "11",
+        "class_name": "Class 11",
+        "total_booking": 85,
+        "class_details": "Details for class 11. This class focuses on improving various fitness aspects.",
+        "trainers": [
+            "Trainer A",
+            "Trainer B"
+        ],
+        "class_image_url": "https://via.placeholder.com/150"
+    },
+    {
+        "_id": "12",
+        "class_name": "Class 12",
+        "total_booking": 90,
+        "class_details": "Details for class 12. This class focuses on improving various fitness aspects.",
+        "trainers": [
+            "Trainer A",
+            "Trainer B"
+        ],
+        "class_image_url": "https://via.placeholder.com/150"
+    }
+]

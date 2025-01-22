@@ -1,0 +1,122 @@
+[
+    {
+        "_id": "1",
+        "article_title": "Article Title 1",
+        "article_details": "Details for article 1. This article covers a variety of topics related to fitness, health, and wellness.",
+        "article_writer": "Writer 1",
+        "article_date": "31-12-2024",
+        "article_image_url": "https://via.placeholder.com/150",
+        "upvote_count": 110,
+        "downvote_count": 6
+    },
+    {
+        "_id": "2",
+        "article_title": "Article Title 2",
+        "article_details": "Details for article 2. This article covers a variety of topics related to fitness, health, and wellness.",
+        "article_writer": "Writer 2",
+        "article_date": "31-12-2024",
+        "article_image_url": "https://via.placeholder.com/150",
+        "upvote_count": 120,
+        "downvote_count": 7
+    },
+    {
+        "_id": "3",
+        "article_title": "Article Title 3",
+        "article_details": "Details for article 3. This article covers a variety of topics related to fitness, health, and wellness.",
+        "article_writer": "Writer 3",
+        "article_date": "31-12-2024",
+        "article_image_url": "https://via.placeholder.com/150",
+        "upvote_count": 130,
+        "downvote_count": 8
+    },
+    {
+        "_id": "4",
+        "article_title": "Article Title 4",
+        "article_details": "Details for article 4. This article covers a variety of topics related to fitness, health, and wellness.",
+        "article_writer": "Writer 4",
+        "article_date": "31-12-2024",
+        "article_image_url": "https://via.placeholder.com/150",
+        "upvote_count": 140,
+        "downvote_count": 9
+    },
+    {
+        "_id": "5",
+        "article_title": "Article Title 5",
+        "article_details": "Details for article 5. This article covers a variety of topics related to fitness, health, and wellness.",
+        "article_writer": "Writer 5",
+        "article_date": "31-12-2024",
+        "article_image_url": "https://via.placeholder.com/150",
+        "upvote_count": 150,
+        "downvote_count": 10
+    },
+    {
+        "_id": "6",
+        "article_title": "Article Title 6",
+        "article_details": "Details for article 6. This article covers a variety of topics related to fitness, health, and wellness.",
+        "article_writer": "Writer 6",
+        "article_date": "31-12-2024",
+        "article_image_url": "https://via.placeholder.com/150",
+        "upvote_count": 160,
+        "downvote_count": 11
+    },
+    {
+        "_id": "7",
+        "article_title": "Article Title 7",
+        "article_details": "Details for article 7. This article covers a variety of topics related to fitness, health, and wellness.",
+        "article_writer": "Writer 7",
+        "article_date": "31-12-2024",
+        "article_image_url": "https://via.placeholder.com/150",
+        "upvote_count": 170,
+        "downvote_count": 12
+    },
+    {
+        "_id": "8",
+        "article_title": "Article Title 8",
+        "article_details": "Details for article 8. This article covers a variety of topics related to fitness, health, and wellness.",
+        "article_writer": "Writer 8",
+        "article_date": "31-12-2024",
+        "article_image_url": "https://via.placeholder.com/150",
+        "upvote_count": 180,
+        "downvote_count": 13
+    },
+    {
+        "_id": "9",
+        "article_title": "Article Title 9",
+        "article_details": "Details for article 9. This article covers a variety of topics related to fitness, health, and wellness.",
+        "article_writer": "Writer 9",
+        "article_date": "31-12-2024",
+        "article_image_url": "https://via.placeholder.com/150",
+        "upvote_count": 190,
+        "downvote_count": 14
+    },
+    {
+        "_id": "10",
+        "article_title": "Article Title 10",
+        "article_details": "Details for article 10. This article covers a variety of topics related to fitness, health, and wellness.",
+        "article_writer": "Writer 10",
+        "article_date": "31-12-2024",
+        "article_image_url": "https://via.placeholder.com/150",
+        "upvote_count": 200,
+        "downvote_count": 15
+    },
+    {
+        "_id": "11",
+        "article_title": "Article Title 11",
+        "article_details": "Details for article 11. This article covers a variety of topics related to fitness, health, and wellness.",
+        "article_writer": "Writer 11",
+        "article_date": "31-12-2024",
+        "article_image_url": "https://via.placeholder.com/150",
+        "upvote_count": 210,
+        "downvote_count": 16
+    },
+    {
+        "_id": "12",
+        "article_title": "Article Title 12",
+        "article_details": "Details for article 12. This article covers a variety of topics related to fitness, health, and wellness.",
+        "article_writer": "Writer 12",
+        "article_date": "31-12-2024",
+        "article_image_url": "https://via.placeholder.com/150",
+        "upvote_count": 220,
+        "downvote_count": 17
+    }
+]

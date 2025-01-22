@@ -1,0 +1,50 @@
+[
+    {
+        "_id": "1",
+        "review": "Great workout sessions, highly recommend!",
+        "reviewer": "John Doe",
+        "reviewer_img_url": "https://i.pravatar.cc/40?img=1",
+        "date": "2025-01-10",
+        "rating": 4
+    },
+    {
+        "_id": "2",
+        "review": "Fantastic yoga experience, will definitely come back for more!",
+        "reviewer": "Jane Smith",
+        "reviewer_img_url": "https://i.pravatar.cc/40?img=2",
+        "date": "2025-01-09",
+        "rating": 5
+    },
+    {
+        "_id": "3",
+        "review": "The Crossfit class is intense. Perfect for strength building!",
+        "reviewer": "Michael Johnson",
+        "reviewer_img_url": "https://i.pravatar.cc/40?img=3",
+        "date": "2025-01-08",
+        "rating": 5
+    },
+    {
+        "_id": "4",
+        "review": "Loved the Pilates class! Great for flexibility and core strength.",
+        "reviewer": "Emily Davis",
+        "reviewer_img_url": "https://i.pravatar.cc/40?img=4",
+        "date": "2025-01-07",
+        "rating": 4
+    },
+    {
+        "_id": "5",
+        "review": "The instructor was great, and the cardio session was a blast!",
+        "reviewer": "David Brown",
+        "reviewer_img_url": "https://i.pravatar.cc/40?img=5",
+        "date": "2025-01-06",
+        "rating": 4
+    },
+    {
+        "_id": "6",
+        "review": "Amazing results from the body transformation, I gained muscle.",
+        "reviewer": "Sarah Lee",
+        "reviewer_img_url": "https://i.pravatar.cc/40?img=6",
+        "date": "2025-01-05",
+        "rating": 5
+    }
+]
