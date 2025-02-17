@@ -6,7 +6,7 @@ const useArticles = () => {
     const [loading, setLoading] = useState(true);
 
     useEffect(() => {
-        fetch('https://fitness-tracker-server-tawny.vercel.app/articles')
+        fetch('http://localhost:3000/articles')
             .then(res => res.json())
             .then(data => {
                 setFitnessArticles(data);

@@ -10,7 +10,7 @@ function NewsletterSection() {
 
   const handleSubscribe = async () => {
     try {
-      const response = await fetch('https://fitness-tracker-server-tawny.vercel.app/subscribers', {
+      const response = await fetch('http://localhost:3000/subscribers', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json'

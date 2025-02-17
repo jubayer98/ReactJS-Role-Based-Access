@@ -20,7 +20,7 @@ const CheckoutForm = () => {
     useEffect(() => {
         const fetchClientSecret = async () => {
             try {
-                const response = await fetch('https://fitness-tracker-server-tawny.vercel.app/create-payment-intent', {
+                const response = await fetch('http://localhost:3000/create-payment-intent', {
                     method: 'POST',
                     headers: { 'Content-Type': 'application/json' },
                     body: JSON.stringify({ price: price * 100 }) // Price in cents
@@ -65,7 +65,7 @@ const CheckoutForm = () => {
 
     const saveTransactionDetails = async (transactionId) => {
         try {
-            const response = await fetch('https://fitness-tracker-server-tawny.vercel.app/save-payment-info', {
+            const response = await fetch('http://localhost:3000/save-payment-info', {
                 method: 'POST',
                 headers: {
                     'Content-Type': 'application/json',

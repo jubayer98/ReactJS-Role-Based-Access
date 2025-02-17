@@ -6,7 +6,7 @@ const useReviewes = () => {
     const [loading, setLoading] = useState(true);
 
     useEffect(() => {
-        fetch('https://fitness-tracker-server-tawny.vercel.app/reviews')
+        fetch('http://localhost:3000/reviews')
             .then(res => res.json())
             .then(data => {
                 setFitnessTrainerReviews(data);
