@@ -2,3 +2,21 @@
 @tailwind components;
 @tailwind utilities;
 
+/* Tailwind CSS */
+.bg-custom-light {
+    background-color: #f0e7db;
+  }
+  
+  .text-custom-light {
+    color: #374151;
+  }
+  
+  /* Using Tailwind's dark mode feature */
+  .dark .bg-custom-dark {
+    background-color: #1f2937;
+  }
+  
+  .dark .text-custom-dark {
+    color: #f9fafb;
+  }
+  
