@@ -49,6 +49,9 @@ Welcome to the Fitness Tracker, an innovative platform designed to revolutionize
 - **JWT** & **dotenv**: For handling authentication and environment variables.
 - **CORS**: To enable cross-origin requests.
 
+### Install Node Modules for Both Client and Server
+`npm install`
+
 ## Admin Access
 
 To access the admin panel, use the following credentials:
