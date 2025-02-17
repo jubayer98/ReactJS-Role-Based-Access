@@ -48,7 +48,7 @@ export const router = createBrowserRouter([
       {
         path: 'trainer-details/:id',
         element: <PrivateRoute><TrainerDetails></TrainerDetails></PrivateRoute>,
-        loader: ({ params }) => fetch(`http://localhost:3000/users/${params.id}`)
+        loader: ({ params }) => fetch(`https://fitness-tracker-server-tawny.vercel.app/users/${params.id}`)
       },
       {
         path: 'become-trainer',
@@ -61,7 +61,7 @@ export const router = createBrowserRouter([
       {
         path: 'class-details/:id',
         element: <PrivateRoute><ClassDetails></ClassDetails></PrivateRoute>,
-        loader: ({ params }) => fetch(`http://localhost:3000/classes/${params.id}`)
+        loader: ({ params }) => fetch(`https://fitness-tracker-server-tawny.vercel.app/classes/${params.id}`)
       },
       {
         path: 'all-articles',
@@ -70,22 +70,22 @@ export const router = createBrowserRouter([
       {
         path: 'article-details/:id',
         element: <PrivateRoute><ArticleDetails></ArticleDetails></PrivateRoute>,
-        loader: ({ params }) => fetch(`http://localhost:3000/articles/${params.id}`)
+        loader: ({ params }) => fetch(`https://fitness-tracker-server-tawny.vercel.app/articles/${params.id}`)
       },
       {
         path: 'morning/:id',
         element: <PrivateRoute><Morning></Morning></PrivateRoute>,
-        loader: ({ params }) => fetch(`http://localhost:3000/users/${params.id}`)
+        loader: ({ params }) => fetch(`https://fitness-tracker-server-tawny.vercel.app/users/${params.id}`)
       },
       {
         path: 'afternoon/:id',
         element: <PrivateRoute><Afternoon></Afternoon></PrivateRoute>,
-        loader: ({ params }) => fetch(`http://localhost:3000/users/${params.id}`)
+        loader: ({ params }) => fetch(`https://fitness-tracker-server-tawny.vercel.app/users/${params.id}`)
       },
       {
         path: 'evening/:id',
         element: <PrivateRoute><Evening></Evening></PrivateRoute>,
-        loader: ({ params }) => fetch(`http://localhost:3000/users/${params.id}`)
+        loader: ({ params }) => fetch(`https://fitness-tracker-server-tawny.vercel.app/users/${params.id}`)
       },
       {
         path: 'payment',

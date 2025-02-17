@@ -6,7 +6,7 @@ const useClasses = () => {
     const [loading, setLoading] = useState(true);
 
     useEffect(() => {
-        fetch('http://localhost:3000/classes')
+        fetch('https://fitness-tracker-server-tawny.vercel.app/classes')
             .then(res => res.json())
             .then(data => {
                 setFitnessClasses(data);
